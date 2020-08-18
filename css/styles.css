@@ -25,6 +25,7 @@ ul {
   color: #f2ae72;
   text-align: center;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  list-style-position: inside;
 }
 img {
   display: block;
